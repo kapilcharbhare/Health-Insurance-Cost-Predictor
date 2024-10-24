@@ -16,7 +16,7 @@ Clone the repository
 
 bash
 Copy code
-git clone https://github.com/your-username/health-insurance-predictor.git
+git clone https://github.com/kapilcharbhare/Health-Insurance-Cost-Predictor.git
 cd health-insurance-predictor
 Install dependencies
 
